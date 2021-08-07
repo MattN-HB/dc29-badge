@@ -10,7 +10,7 @@ To get started, please update your firmware.
 ## Connecting from computer
 
 * *macOS*, you can run `screen /dev/tty.usbmodem123451 9600` which will present a black screen, then press enter. 
-* *linux*, you can run `sudo screen /dev/tty.usbmodem123451 9600`. NOTE: you may need to find the right TTY device, it may be named something other than usbmodem123451.  
+* *linux*, you can run `Sudo screen /dev/ttyACM0 6900-8-D-1` or `Minicom --device /dev/ttyACM0`. NOTE: you may need to find the right TTY device, it may be named something other than usbmodem123451.  Use ```Dmesg | grep tty``` to find. also important to know that toggling battery usb will bring serial up.
 * *Windows* use your favorite terminal (Putty/Mobaxterm/etc.), new Serial session, COM3 (maybe COM4 etc.) and typically 9600 speed, then you should see a black screen, press enter.
 
 ## Simon says
