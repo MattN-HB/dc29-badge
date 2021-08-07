@@ -44,3 +44,16 @@ Known issues:
 
 1. Remap one of your keys to output your request code.
 2. Remap a key to your personal github to land a new job!
+
+## Resources/Fav Talks
+* [Signal DC](https://defcon.org/signal/instructions.html)
+* [All Docs at Info on](https://infocon.org/)
+* [Cloud village](https://cloud-village.org/)
+* [Iot village](https://www.iotvillage.org/defcon.html)
+* [Aerospace village](https://m.youtube.com/c/AerospaceVillage)
+* [Wall of sheep](https://www.youtube.com/wallofsheep)
+* [Adversary village](https://m.youtube.com/channel/UCOhn9WALnpb5YAbW18R1Hzg)
+* [DEFCON YouTube](https://m.youtube.com/user/DEFCONConference)
+* [Badge hackaday](https://hackaday.com/2021/08/05/hands-on-def-con-29-badge-embraces-the-new-normal/)
+* [Carhacking keynote by Allisa Knight](https://youtu.be/X0ZNEyzloY8)
+* 
