@@ -57,3 +57,4 @@ Known issues:
 * [Badge hackaday](https://hackaday.com/2021/08/05/hands-on-def-con-29-badge-embraces-the-new-normal/)
 * [Carhacking keynote by Allisa Knight](https://youtu.be/X0ZNEyzloY8)
 * [Media server all talks and docs](https://dc29-media.defcon.org) `wget -np -m https://dc29-media.defcon.org/infocon.org/cons/Def Con/DEF CON 25/`
+* [Infocon](https://infocon.org/cons/DEF%20CON/DEF%20CON%2029/)
